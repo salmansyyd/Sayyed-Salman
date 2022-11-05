@@ -4,11 +4,8 @@ Hi 👋 My name is Salman Sayyed
 Software Developer
 ------------------
 
-* 🌍  I'm based in India
 * ✉️  You can contact me at [syydsalman12@gmail.com](mailto:syydsalman12@gmail.com)
-* 🚀  I'm currently working on [Responsive Web Applications](http://https://github.com/Sayyed-Salman/Android-legendary-enigma)
-* 🧠  I'm learning Flask
-* 🤝  I'm open to collaborating on Web based projects
+* 🧠  I'm learning DevOps
 
 <a href="https://www.github.com/Sayyed-Salman" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sayyed-Salman?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
