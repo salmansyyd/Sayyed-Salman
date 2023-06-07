@@ -8,7 +8,7 @@ A highly motivated and tech-savvy software developer and DevOps engineer with ex
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [salmansyyd12@gmail.com](mailto:salmansyyd12@gmail.com)
-* 🧠  I'm learning DevOps and Kafka
+* 🧠  I'm learning DevOps
 * 🤝  I'm open to collaborating on Opensource tools and frameworks.
 * ⚡  "I am Batman"
 
