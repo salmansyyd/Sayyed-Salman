@@ -38,4 +38,7 @@ A highly motivated and tech-savvy software developer and DevOps engineer with ex
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/sayyedsalm8"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-[![](https://visitcount.itsvg.in/api?id=salmansyyd&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=salmansyyd&label=Profile%20Views&color=12&icon=1&pretty=false" />
+</a>
